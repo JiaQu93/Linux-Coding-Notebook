@@ -4,7 +4,7 @@ A curated notebook of essential Linux commands, shell scripting examples, and pr
 
 ## Resources of the Linux coding tutorials:
 1. OSU OSC Linux Tutorial (https://www.osc.edu/content/batch-tutorial)
-2. 
+2. OSU OSC Linux Shortcuts (https://www.osc.edu/documentation/tutorials/unix-basics/unix-shortcuts)
 
 ## 📘 Overview
 
